@@ -13,8 +13,8 @@
       <div class="gird-th text-center">
         <img src="../assets/image/假圖.png" alt="Description" class="h-48 rounded-t-lg w-full" />
       </div>
-      <div class="gird-th">商品名稱</div>
-      <div class="gird-th text-center">價錢</div>
+      <div class="gird-th">name</div>
+      <div class="gird-th text-center">price</div>
       <div class="gird-th text-center">數量</div>
     </div>
   </div>
@@ -78,5 +78,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss" scoped></style>
